@@ -31,7 +31,7 @@ The following **additional** features are implemented:
     <a href="https://www.loom.com/share/9e130a03d1204cddb15c71ee19949883">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9e130a03d1204cddb15c71ee19949883-1709024129322-with-play.gif">
     </a>
-  </div>frame></div>
+  </div>
 
 
 ## Notes
@@ -40,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Jiahao Deng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

@@ -25,9 +25,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/9e130a03d1204cddb15c71ee19949883">
+      <p>[ACTION REQUIRED] CodePath Connected Classroom Intro to iOS Development - Incomplete Assignment Submission - daviddeng0smm@gmail.com - Gmail - 27 February 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/9e130a03d1204cddb15c71ee19949883">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9e130a03d1204cddb15c71ee19949883-with-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
